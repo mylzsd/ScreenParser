@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Examples",
-    "\\Examples\\HotkeySample",
-    "\\Examples\\SnippingToolUI"
+    "\\Examples"
   ],
-  "SelectedNode": "\\Examples\\HotkeySample\\HotkeySample.sln",
+  "SelectedNode": "\\Examples\\SnippingToolUI",
   "PreviewInSolutionExplorer": false
 }
