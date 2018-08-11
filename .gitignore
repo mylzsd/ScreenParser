@@ -1,8 +1,7 @@
-*/Debug/*
-*/.vs/*
-
-*/*/Debug/*
-*/*/.vs/*
-
-# Visual c++ cache files
 *.opendb
+*.db
+x64
+Debug
+
+.*
+!/.gitignore

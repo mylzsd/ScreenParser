@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Examples",
-    "\\Examples\\HotkeySample"
+    "\\Examples\\HotkeySample",
+    "\\Examples\\Recording"
   ],
-  "SelectedNode": "\\Examples\\HotkeySample\\HotkeySample",
+  "SelectedNode": "\\Examples\\Recording\\Recording.sln",
   "PreviewInSolutionExplorer": false
 }
