@@ -1,2 +1,8 @@
-**/Debug
-**/.vs
+*/Debug/*
+*/.vs/*
+
+*/*/Debug/*
+*/*/.vs/*
+
+# Visual c++ cache files
+*.opendb
