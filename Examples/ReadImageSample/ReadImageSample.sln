@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReadImageSample", "ReadImageSample\ReadImageSample.vcxproj", "{48F57B52-6C21-4B50-88AA-B5C828954098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Debug|x64.ActiveCfg = Debug|x64
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Debug|x64.Build.0 = Debug|x64
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Debug|x86.ActiveCfg = Debug|Win32
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Debug|x86.Build.0 = Debug|Win32
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Release|x64.ActiveCfg = Release|x64
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Release|x64.Build.0 = Release|x64
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Release|x86.ActiveCfg = Release|Win32
+		{48F57B52-6C21-4B50-88AA-B5C828954098}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAA21DA-466B-4A8F-97B1-ACDFE0359FD9}
+	EndGlobalSection
+EndGlobal
