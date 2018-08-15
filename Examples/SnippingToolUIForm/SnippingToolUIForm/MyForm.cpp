@@ -5,8 +5,8 @@ using namespace System::Windows::Forms;
 
 [STAThreadAttribute]
 void Main(array<String^>^ args) {
-  Application::EnableVisualStyles();
-  Application::SetCompatibleTextRenderingDefault(false);
-  SnippingToolUIForm::MyForm form;
-  Application::Run(%form);
+    Application::EnableVisualStyles();
+    Application::SetCompatibleTextRenderingDefault(false);
+    SnippingToolUIForm::MyForm form;
+    Application::Run(%form);
 }
