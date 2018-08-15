@@ -23,7 +23,7 @@
     <ProjectGuid>{A45154AC-1ECB-4A31-9C88-8834C6064FE4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>SnippingToolUI</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{6C7196F6-4033-4215-AC75-80380229A5C7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Recording</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

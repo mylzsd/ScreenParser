@@ -78,6 +78,8 @@ ipch/
 *.cachefile
 
 # Visual Studio profiler
+*.vcxproj.*
+*.vcxproj
 *.psess
 *.vsp
 *.vspx
